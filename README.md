@@ -1,4 +1,4 @@
-1) CompareAndCalculate.java
+# CompareAndCalculate.java
 
 Программа на Java, которая:
 
